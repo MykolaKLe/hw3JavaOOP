@@ -12,6 +12,9 @@ public class Book {/* extends Object */
         this.isbn = isbn;
     }
 
+    public Book() {
+    }
+
     public String getTitle() {
 
         return title;
@@ -52,10 +55,10 @@ public class Book {/* extends Object */
 
     @Override
     public String toString() {
-        String str = "Author: " + this.author +
-                "Title: " + this.title +
-                "Pages: " + this.pages +
-                "ISBN: " + this.isbn;
+        String str = " Author: " + this.author +
+                " Title: " + this.title +
+                " Pages: " + this.pages +
+                " ISBN: " + this.isbn;
         return str;
     }
 }
