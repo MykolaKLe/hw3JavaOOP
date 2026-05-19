@@ -57,6 +57,16 @@ public class Computer {
         return str;
     }
 }
+//ComputerHW3 pc = new ComputerHW3();
+//pc.setCompany("Lenovo");
+//pc.setRam(8);
+//pc.setCpu("i7");
+//pc.setSsd(500);
+//
+//System.out.println("Company: " + pc.getCompany());
+//System.out.println("Ram: " + pc.getRam());
+//System.out.println("CPU: "+ pc.getCpu());
+//System.out.println("SSD: "+ pc.getSsd());
 /*
 HW
 1.

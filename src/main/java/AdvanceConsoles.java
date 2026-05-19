@@ -21,6 +21,7 @@ public class AdvanceConsoles {
                 new Consoles("Valve", "Steam Machine BOX", 2026, 6, 10, 649)
 
 
+
         };
         for (Consoles bk1 : bk) {
             System.out.println(bk1);
