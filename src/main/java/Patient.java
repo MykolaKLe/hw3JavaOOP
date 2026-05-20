@@ -1,7 +1,7 @@
 import java.util.Random;
 
 //import java.util.Random;
-public class Patient {
+public class Patient extends Personin{
     private String illness;
     private double day_to_rest;
     private double day_used;

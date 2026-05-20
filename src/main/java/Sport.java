@@ -2,7 +2,7 @@
 
 
 
-public class Sport {
+public class Sport extends Personin {
     private String sportname;
     private String status;
     private double years_in;

@@ -1,7 +1,7 @@
 //import java.util.Random;
 
 
-public class Employee {
+public class Employee extends Personin {
     private String profession;
     private double expirience;
     private double salary;
