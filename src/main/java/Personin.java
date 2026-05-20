@@ -14,7 +14,7 @@ public class Personin {
 //        this.Name = names[random.nextInt(names.length)];- тут оно будет брать значение с массива
 //        this.surname = surnames[random.nextInt(surnames.length)];- и тут
 //        this.id = random.nextInt(999999);
-//        this.age = random.nextInt(60); - тут будет вибирать рандомное значение от 0 до 60
+//        this.age = random.nextInt(61); - тут будет вибирать рандомное значение от 0 до 60
 
     }
 
